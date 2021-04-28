@@ -8,5 +8,6 @@ public class Test3 {
         System.out.println("master");
         System.out.println("push master");
         System.out.println("push master ssh");
+        System.out.println("push master http");
     }
 }
