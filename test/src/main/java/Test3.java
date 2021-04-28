@@ -7,5 +7,6 @@ public class Test3 {
         System.out.println("test");
         System.out.println("master");
         System.out.println("push master");
+        System.out.println("push master ssh");
     }
 }
